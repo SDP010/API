@@ -26,5 +26,7 @@ Project to fetch data from MySQl & MongoDB.
 <i>**NOTE:** You can also use my data from mongodb sever stored for test purpose.Details given bellow : </i>
 
 <i>connection string : "mongodb+srv://sdp:mongodb@cluster0.q8kfd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"</i>
+
 <i>db_name : test1</i>
+
 <i>coll_name : test1_coll2</i>
