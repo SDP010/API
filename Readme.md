@@ -1,4 +1,4 @@
-# Distributed Database Application
+# IMPLIMENTATION OF API IN DATA EXTRACTION
 
 ## Application Architecture
 <img title="App Architecture" alt="architecture" width="600px" src="application-architecture.png"/>
