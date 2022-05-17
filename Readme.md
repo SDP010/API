@@ -5,7 +5,7 @@
 
 
 ## About Project
-Project to fetch data from MySQl & MongoDB.
+Project to fetch data from MySQl & MongoDB via Postman
 
 #### Access Data from MySQL Database
 * Request URL: http://127.0.0.1:5000/fromsql
